@@ -1,0 +1,1 @@
+<?php if(isset($_GET['IdUp'])  && !empty($_GET['IdUp'])):print('ACTUALIZAR');else:print('CADASTRAR');endif;

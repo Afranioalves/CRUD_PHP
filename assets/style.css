@@ -1,0 +1,56 @@
+*{
+	margin:0 auto;
+	padding: 0;
+}
+
+section.container{
+	background: #212121;
+	width: 80%;
+	margin-top: 12vh;
+	padding:16px;
+}
+table{
+	width: 100%;
+	text-align: center;
+	font-size: 16px;
+	margin-top: 8px;
+}
+table td{
+	
+	color:grey;
+	padding-top: 8px;
+
+}
+table th{
+	height: 4vh;
+	font-size: 1.1em;
+	background: grey;
+	color:#fff;
+}
+input[type=text]{
+	height: 3.5vh;
+	width: 19vw;
+	background: transparent;
+	border:1px solid #fff;
+	color:#fff;
+	padding-left: 8px;
+}
+
+input[type=submit]{
+	height: 4vh;
+	width: 15vw;
+	border:none;
+	cursor: pointer;
+	float: right;
+	background: teal;
+	color:#fff;
+	font-size: 16px;
+}
+a.edit{
+	text-decoration:none;
+	color:teal;
+}
+a.del{
+	text-decoration: none;
+	color:red;
+}
