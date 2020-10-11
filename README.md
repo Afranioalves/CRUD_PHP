@@ -1,1 +1,1 @@
-# crud com php usando a orietação Objecto
+# crud com php usando a orientação Objecto
